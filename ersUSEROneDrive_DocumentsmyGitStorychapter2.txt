@@ -1,0 +1,17 @@
+[33mcommit 67ac335a11fde3d0ea1159e43c7b350394d95ed4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32malien_plot[m[33m)[m
+Author: edith baskara <baskaraedith@gmail.com>
+Date:   Sun Sep 20 17:56:01 2026 +0700
+
+    Modify chapter 1 and 2
+
+[33mcommit c951080935acd8cdd2858214f74632b611e09441[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: edith baskara <baskaraedith@gmail.com>
+Date:   Sun Sep 20 06:07:23 2026 +0700
+
+    complete chapter 2 and 3
+
+[33mcommit 323a776b85016d2867a635a07158edc03cfead58[m
+Author: edith baskara <baskaraedith@gmail.com>
+Date:   Sun Sep 20 06:00:46 2026 +0700
+
+    complete chapter 1
